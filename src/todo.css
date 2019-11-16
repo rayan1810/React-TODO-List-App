@@ -1,0 +1,20 @@
+.top{
+    background-color: gray;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.list{
+    background-color :burlywood; 
+    border : 1px dashed blue;
+    border-radius: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.back{
+    background-color:aqua; 
+}
+body{
+    background-color:aqua; 
+}
